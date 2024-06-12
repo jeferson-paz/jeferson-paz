@@ -1,7 +1,7 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/images/hand.png" width="100px" style="animation: wave 2s infinite;">
+  <p style="font-size: 24px;">Hello World 👋</p>
+</div>
 
 <p align="center"><p>Com mais de 7 anos de experiência em Tecnologia da Informação, construí uma sólida trajetória desde o suporte direto aos usuários até o gerenciamento de chamados e suporte técnico, sempre priorizando a satisfação do cliente. Desde jovem, fui reconhecido por minha aptidão em lidar com tecnologia, ajudando familiares e amigos com sistemas operacionais, hardware, software e configurações de dispositivos móveis, impulsionado pela curiosidade em aprender e aperfeiçoar minhas habilidades.</p>
 
@@ -10,9 +10,8 @@
 <p align="center"><p>Minha formação inclui um MBA em Big Data e Inteligência Competitiva, que complementa minha experiência prática no gerenciamento de tickets no Service Now e no JIRA Service Desk, assim como na modelagem de dados e processos ETL em projetos de auditoria.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeferson-paz&theme=tokyonight&mode=weekly" />
-    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=jeferson-paz&show_icons=true&theme=tokyonight&layout=compact
-" />
+    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeferson-paz&theme=tokyonight&mode=weekly" style="max-height: 400px;" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-paz&show_icons=true&theme=tokyonight&layout=compact" style="max-height: 400px;" />
 </div>
  
  &nbsp;
