@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/images/hand.png" width="100px" style="animation: wave 2s infinite;">
-  <p style="font-size: 24px;">Hello World 👋</p>
+  <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/profile.gif" width="800px" style="animation: wave 2s infinite;">
+  <p style="font-size: 24px;"></p>
 </div>
 
-<p align="center"><p>Com mais de 7 anos de experiência em Tecnologia da Informação, construí uma sólida trajetória desde o suporte direto aos usuários até o gerenciamento de chamados e suporte técnico, sempre priorizando a satisfação do cliente. Desde jovem, fui reconhecido por minha aptidão em lidar com tecnologia, ajudando familiares e amigos com sistemas operacionais, hardware, software e configurações de dispositivos móveis, impulsionado pela curiosidade em aprender e aperfeiçoar minhas habilidades.</p>
+<p align="center">With over 7 years of experience in Information Technology, I have built a solid career path from direct user support to managing tickets and technical support, always prioritizing customer satisfaction. From a young age, I was recognized for my ability to handle technology, helping family and friends with operating systems, hardware, software, and mobile device configurations, driven by curiosity to learn and improve my skills.</p>
 
-<p align="center"><p>Atualmente, sou membro da equipe da SONDA, uma das principais empresas de serviços de TI, onde desempenho um papel crucial no atendimento dedicado ao cliente ROCHE, uma farmacêutica de renome. Além das responsabilidades mencionadas anteriormente, sou encarregado de coordenar eventos internos e externos, bem como de fornecer treinamento de TI para novos colaboradores da Roche, assegurando sua integração eficaz nas operações da empresa.</p>
-                    
-<p align="center"><p>Minha formação inclui um MBA em Big Data e Inteligência Competitiva, que complementa minha experiência prática no gerenciamento de tickets no Service Now e no JIRA Service Desk, assim como na modelagem de dados e processos ETL em projetos de auditoria.</p>&nbsp;
+<p align="center">Currently, I am a member of the SONDA team, one of the leading IT service companies, where I play a crucial role in dedicated customer service for ROCHE, a renowned pharmaceutical company. In addition to the aforementioned responsibilities, I am responsible for coordinating internal and external events, as well as providing IT training for new Roche employees, ensuring their effective integration into the company's operations.</p>
+
+<p align="center">My education includes an MBA in Big Data and Competitive Intelligence, which complements my practical experience in managing tickets in ServiceNow and JIRA Service Desk, as well as data modeling and ETL processes in audit projects.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
     <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeferson-paz&theme=tokyonight&mode=weekly" style="max-height: 400px;" />
