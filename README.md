@@ -10,8 +10,9 @@
 <p align="center"><p>Minha formação inclui um MBA em Big Data e Inteligência Competitiva, que complementa minha experiência prática no gerenciamento de tickets no Service Now e no JIRA Service Desk, assim como na modelagem de dados e processos ETL em projetos de auditoria.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=tokyonight&mode=weekly" />
-    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=tokyonight&layout=compact" />
+    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeferson-paz&theme=tokyonight&mode=weekly" />
+    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=jeferson-paz&show_icons=true&theme=tokyonight&layout=compact
+" />
 </div>
  
  &nbsp;
