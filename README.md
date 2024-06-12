@@ -9,11 +9,10 @@
 
 <p align="center">My education includes an MBA in Big Data and Competitive Intelligence, which complements my practical experience in managing tickets in ServiceNow and JIRA Service Desk, as well as data modeling and ETL processes in audit projects.</p>&nbsp;
 
-<div align="center" style="margin-bottom:100px">
-    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeferson-paz&theme=tokyonight&mode=weekly" style="max-height: 400px;" />
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-paz&show_icons=true&theme=tokyonight&layout=compact" style="max-height: 400px;" />
+<div align="center" style="margin-bottom:100px; display: flex; justify-content: center; align-items: center;">
+    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-paz&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
- 
+
  &nbsp;
  &nbsp;
 
