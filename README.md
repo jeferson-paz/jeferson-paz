@@ -54,7 +54,7 @@
 
 ## Featured Projects
 
-- **[Portfolio](https://jeferson-paz.github.io/Portfolio)**: ![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square)
+- **[Portfolio](https://jeferson-paz.github.io/Portfolio)**: Portfolio dedicated to tracking and showcasing my professional development in the IT field, highlighting the skills and knowledge I am currently acquiring. ![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square)
 
 ## Contacts
 
