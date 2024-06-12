@@ -3,6 +3,8 @@
   <p style="font-size: 24px;"></p>
 </div>
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz&label=Profile%20visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz)
+
 <p align="center">With over 7 years of experience in Information Technology, I have built a solid career path from direct user support to managing tickets and technical support, always prioritizing customer satisfaction. From a young age, I was recognized for my ability to handle technology, helping family and friends with operating systems, hardware, software, and mobile device configurations, driven by curiosity to learn and improve my skills.</p>
 
 <p align="center">Currently, I am a member of the SONDA team, one of the leading IT service companies, where I play a crucial role in dedicated customer service for ROCHE, a renowned pharmaceutical company. In addition to the aforementioned responsibilities, I am responsible for coordinating internal and external events, as well as providing IT training for new Roche employees, ensuring their effective integration into the company's operations.</p>
