@@ -80,11 +80,12 @@
 
 <div align="center">
   <h3>Portfolio</h3>
-  <a href="https://jeferson-paz.github.io/Portfolio/">
+  <a href="https://jeferson-paz.github.io/Portfolio/" target="_blank">
     <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/portfolio.png" alt="Portfolio" style="width: 80%; height: auto; border: 2px solid #000; border-radius: 10px;"/>
   </a>
   <p>Click the image above to view my portfolio, showcasing my professional development and skills in the IT field.</p>
 </div>
+
 
 ## Featured Projects
 
@@ -95,7 +96,7 @@
 <div align="center"> 
     <p>Feel free to reach out to me through the following platforms:</p>
     <a href="https://www.linkedin.com/in/jeferson-paz/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
     </a>
     <a href="https://www.instagram.com/jeferson.paz_" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
