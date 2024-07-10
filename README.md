@@ -79,9 +79,11 @@
 ## Popular Repositories
 
 <div align="center">
+  <h3>Portfolio</h3>
   <a href="https://github.com/jeferson-paz/Portfolio">
-    <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/portfolio.png" alt="Portfolio"/>
+    <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/portfolio.png" alt="Portfolio" style="width: 80%; height: auto; border: 2px solid #000; border-radius: 10px;"/>
   </a>
+  <p>Click the image above to view my portfolio, showcasing my professional development and skills in the IT field.</p>
 </div>
 
 ## Featured Projects
