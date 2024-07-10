@@ -80,7 +80,7 @@
 
 <div align="center">
   <a href="https://github.com/jeferson-paz/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson-paz&repo=Portfolio&theme=tokyonight" alt="Portfolio"/>
+    <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/portfolio.png" alt="Portfolio"/>
   </a>
 </div>
 
