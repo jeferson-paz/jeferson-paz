@@ -26,7 +26,7 @@
 ## My Skills
 
 ### Main Stack:
-<div align="center">
+<div align="left">
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
 ### Studying in this moment:
-<div align="center">
+<div align="left">
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![AI](https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
@@ -50,7 +50,7 @@
 </div>
 
 ### Workstation Tools:
-<div align="center">
+<div align="left">
 
   ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)
