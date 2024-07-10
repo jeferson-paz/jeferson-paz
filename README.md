@@ -82,12 +82,6 @@
   <a href="https://github.com/jeferson-paz/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson-paz&repo=Portfolio&theme=tokyonight" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/jeferson-paz/DataScienceProjects">
-    <img src="https://github.com/jeferson-paz/Projeto-filmes" alt="Data Science Projects"/>
-  </a>
-  <a href="https://github.com/jeferson-paz/MachineLearningProjects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson-paz&repo=MachineLearningProjects&theme=tokyonight" alt="Machine Learning Projects"/>
-  </a>
 </div>
 
 ## Featured Projects
