@@ -76,11 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeferson-paz&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
 
-<div align="center">
-  <!-- Principais Linguagens Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-paz&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
 ## Popular Repositories
 
 <div align="center">
