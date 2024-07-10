@@ -5,11 +5,11 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz&label=Profile%20visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz)
 
-<p align="center">With over 7 years of experience in Information Technology, I have built a solid career path from direct user support to managing tickets and technical support, always prioritizing customer satisfaction. From a young age, I was recognized for my ability to handle technology, helping family and friends with operating systems, hardware, software, and mobile device configurations, driven by curiosity to learn and improve my skills.</p>
+<p align="center">With over 7 years of experience in Information Technology, I have built a solid career path ranging from direct user support to managing tickets and technical support. I am a Data Analyst with an MBA in Big Data and Competitive Intelligence, enhancing my expertise in ticket management using Service Now and JIRA Service Desk, as well as in data modeling and ETL processes for audit projects. I possess advanced skills in Python, SQL, R, Power BI, and AI.</p>
 
-<p align="center">Currently, I am a member of the SONDA team, one of the leading IT service companies, where I play a crucial role in dedicated customer service for ROCHE, a renowned pharmaceutical company. In addition to the aforementioned responsibilities, I am responsible for coordinating internal and external events, as well as providing IT training for new Roche employees, ensuring their effective integration into the company's operations.</p>
+<p align="center">Currently, I contribute as a member of the SONDA team, a leading IT services company, playing a crucial role in dedicated customer service for ROCHE, a renowned pharmaceutical company. In addition to my mentioned responsibilities, I coordinate internal and external events and provide IT training to new Roche employees, ensuring their effective integration into company operations.</p>
 
-<p align="center">My education includes an MBA in Big Data and Competitive Intelligence, which complements my practical experience in managing tickets in ServiceNow and JIRA Service Desk, as well as data modeling and ETL processes in audit projects.</p>
+<p align="center">With a track record of resolving over 1600 tickets, I have consistently ranked first in feedback for handled calls, recognized by my employer for positive client feedback. Since a young age, I have demonstrated a strong aptitude for technology, assisting family and friends with operating systems, hardware, software, and mobile device configurations, driven by curiosity to learn and refine my skills.</p>
 
 <div align="center">
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-paz&show_icons=true&theme=tokyonight&layout=compact" />
