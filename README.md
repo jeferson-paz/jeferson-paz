@@ -68,6 +68,44 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jeferson-paz&theme=tokyonight" alt="GitHub Trophies"/>
 </div>
 
+## Teste
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeferson-paz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeferson-paz&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jeferson-paz&theme=tokyonight" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeferson-paz&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-paz&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeferson_paz&theme=tokyonight" alt="Wakatime Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jeferson-paz.visitor-badge" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/followers/jeferson-paz?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/jeferson-paz?style=social" alt="GitHub Stars"/>
+</div>
+
+<div align="center">
+  <h3>Popular Repositories</h3>
+  <a href="https://github.com/jeferson-paz/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson-paz&repo=Portfolio&theme=tokyonight" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/jeferson-paz/DataScienceProjects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson-paz&repo=DataScienceProjects&theme=tokyonight" alt="Data Science Projects"/>
+  </a>
+  <a href="https://github.com/jeferson-paz/MachineLearningProjects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson-paz&repo=MachineLearningProjects&theme=tokyonight" alt="Machine Learning Projects"/>
+  </a>
+</div>
+
 ## Featured Projects
 
 - **[Portfolio](https://jeferson-paz.github.io/Portfolio)**: Portfolio dedicated to tracking and showcasing my professional development in the IT field, highlighting the skills and knowledge I am currently acquiring. ![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square)
