@@ -93,7 +93,7 @@
 <div align="center"> 
     <p>Feel free to reach out to me through the following platforms:</p>
     <a href="https://www.linkedin.com/in/jeferson-paz/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/jeferson.paz_" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
