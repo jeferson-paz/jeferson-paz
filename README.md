@@ -27,7 +27,6 @@
 
 ### Main Stack:
 <div align="left">
-
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +43,6 @@
 
 ### Studying in this moment:
 <div align="left">
-
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![AI](https://img.shields.io/badge/Artificial%20Intelligence-4285F4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -52,7 +50,6 @@
 
 ### Workstation Tools:
 <div align="left">
-
   ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -87,7 +84,6 @@
   <p>Click the image above to view my portfolio, showcasing my professional development and skills in the IT field.</p>
 </div>
 
-
 ## Featured Projects
 
 - **[Portfolio](https://jeferson-paz.github.io/Portfolio)**: Portfolio dedicated to tracking and showcasing my professional development in the IT field, highlighting the skills and knowledge I am currently acquiring. ![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square)
@@ -108,4 +104,4 @@
     <a href="https://jeferson-paz.github.io/Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
     </a>
-</div
+</div>
