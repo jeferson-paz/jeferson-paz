@@ -3,9 +3,6 @@
   <p style="font-size: 24px;"></p>
 </div>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz&label=Profile%20visitors&countColor=%23263759">
-
-
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz&label=Profile%20visitors&countColor=%23263759" alt="Profile visitors" style="pointer-events: none;">
 
 <!--(https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz)  -->
