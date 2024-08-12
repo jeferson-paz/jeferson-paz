@@ -2,6 +2,7 @@
   <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/profile.gif" width="800px" style="animation: wave 2s infinite;" alt="Profile Animation">
   <p style="font-size: 24px;"></p>
 </div>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz&label=Profile%20visitors&countColor=%23263759" alt="Profile visitors">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz&label=Profile%20visitors&countColor=%23263759) <!--(https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjeferson-paz)  -->
 
