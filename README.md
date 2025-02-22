@@ -10,7 +10,7 @@
 ## About Me
 
 <p align="center">
-  With over 7 years of experience in Information Technology, I have built a solid career path ranging from direct user support to managing tickets and technical support. I am a Data Analyst with an MBA in Big Data and Competitive Intelligence, enhancing my expertise in ticket management using Service Now and JIRA Service Desk, as well as in data modeling and ETL processes for audit projects. I possess advanced skills in Python, SQL, R, Power BI, and AI.
+  With over 8 years of experience in Information Technology, I have built a solid career path ranging from direct user support to managing tickets and technical support. I am a Data Analyst with an MBA in Big Data and Competitive Intelligence, enhancing my expertise in ticket management using Service Now and JIRA Service Desk, as well as in data modeling and ETL processes for audit projects. I possess advanced skills in Python, SQL, R, Power BI, and AI.
 </p>
 
 <p align="center">
