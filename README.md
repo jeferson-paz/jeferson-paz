@@ -10,7 +10,7 @@
 ## About Me
 
 <p align="center">
-  With over 10 years of experience in Information Technology, I have built a solid career path ranging from direct user support to managing tickets and technical support. I am a Data Analyst with an MBA in Big Data and Competitive Intelligence, enhancing my expertise in ticket management using Service Now and JIRA Service Desk, as well as in data modeling and ETL processes for audit projects. I possess advanced skills in Python, SQL, R, Power BI, and AI.
+I am a Technical Support professional with over 10 years of experience, focusing on ticket management and specialized support. Throughout my career, I have developed skills in ticket handling and data modeling.
 </p>
 
 <div align="center">
@@ -19,7 +19,8 @@
 
 ## My Skills
 
-### Main Stack:
+### Main Stack
+
 <div align="left">
   
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +37,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
-### Studying in this moment:
+### Studying in this moment
+
 <div align="left">
   
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +46,8 @@
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </div>
 
-### Workstation Tools:
+### Workstation Tools
+
 <div align="left">
   
   ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -87,7 +90,7 @@
 
 ## Contacts
 
-<div align="center"> 
+<div align="center">
     <p>Feel free to reach out to me through the following platforms:</p>
     <a href="https://www.linkedin.com/in/jeferson-paz/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
