@@ -10,15 +10,7 @@
 ## About Me
 
 <p align="center">
-  With over 8 years of experience in Information Technology, I have built a solid career path ranging from direct user support to managing tickets and technical support. I am a Data Analyst with an MBA in Big Data and Competitive Intelligence, enhancing my expertise in ticket management using Service Now and JIRA Service Desk, as well as in data modeling and ETL processes for audit projects. I possess advanced skills in Python, SQL, R, Power BI, and AI.
-</p>
-
-<p align="center">
-  Currently, I contribute as a member of the SONDA team, a leading IT services company, playing a crucial role in dedicated customer service for ROCHE, a renowned pharmaceutical company. In addition to my mentioned responsibilities, I coordinate internal and external events and provide IT training to new Roche employees, ensuring their effective integration into company operations.
-</p>
-
-<p align="center">
-  With a track record of resolving over 1600 tickets, I have consistently ranked first in feedback for handled calls, recognized by my employer for positive client feedback. Since a young age, I have demonstrated a strong aptitude for technology, assisting family and friends with operating systems, hardware, software, and mobile device configurations, driven by curiosity to learn and refine my skills.
+  With over 10 years of experience in Information Technology, I have built a solid career path ranging from direct user support to managing tickets and technical support. I am a Data Analyst with an MBA in Big Data and Competitive Intelligence, enhancing my expertise in ticket management using Service Now and JIRA Service Desk, as well as in data modeling and ETL processes for audit projects. I possess advanced skills in Python, SQL, R, Power BI, and AI.
 </p>
 
 <div align="center">
