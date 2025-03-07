@@ -66,10 +66,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <!-- Estatísticas Gerais do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jeferson-paz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeferson-paz&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jeferson-paz&theme=tokyonight" alt="GitHub Streak" style="margin-bottom: 20px"/>
+  <!-- Estatísticas Gerais do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jeferson-paz&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 20px"/>
   <!-- Troféus do GitHub -->
   <img src="https://github-profile-trophy.vercel.app/?username=jeferson-paz&theme=tokyonight" alt="GitHub Trophies"/>
 </div>
